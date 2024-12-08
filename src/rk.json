@@ -1,0 +1,29 @@
+{
+    "products": [
+      {
+        "title": "(Refurbished) Lenovo ThinkPad",
+        "price": "₹15,299",
+        "originalPrice": null,
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "title": "(Refurbished) HP EliteBook",
+        "price": "₹17,849",
+        "originalPrice": "₹89,999",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "title": "(Refurbished) Lenovo IdeaPad",
+        "price": "₹17,499",
+        "originalPrice": "₹49,999",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "title": "MSI Modern 14",
+        "price": "₹42,021",
+        "originalPrice": null,
+        "image": "https://via.placeholder.com/150"
+      }
+    ]
+  }
+  

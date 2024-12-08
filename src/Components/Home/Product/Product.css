@@ -1,0 +1,180 @@
+.productPage{
+    width: 100%;
+}
+
+.productTopBanner{
+    display: flex;
+    box-shadow: 0 0 1px #747474;
+    height: 50px;
+    padding: 0 9px 0 15px;
+    gap: 25px;
+}
+
+.productTopBannerItem{
+    padding: 0 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
+
+.subMenu{
+    padding: 0 9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    font-weight: 400;
+    cursor: pointer;
+    &:hover{
+        text-decoration: underline;
+        text-decoration-color: #febd69;
+        text-decoration-thickness: 1px;
+    }
+}
+
+.productMainPage{
+    display: flex;
+    padding: 16px 8px;
+}
+
+.leftCategory{
+    width: 14%;
+    border-right: 2px solid #ddd;
+    padding: 0 10px;
+
+}
+
+.categoryTitle{
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.content{
+    margin-top: 10px;
+    font-size: 14px;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ContentSub{
+    font-weight: 600;
+}
+
+.ratingbox{
+    display: flex;
+}
+
+.andup{
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightPage{
+    width: 86%;
+    padding: 0 0 0 12px;
+}
+
+.productTopBanner{
+    width: 99%;
+    border: 1px solid #b1aeae;
+    box-sizing: border-box;
+    margin: 20px 0;
+    padding: 14px 23px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.TopbannerSpan{
+    color: #c45500;
+    font-weight: 700;
+}
+
+.itemImagePage{
+    width: 100%;
+    display: grid;
+    gap: 65px;
+    grid-template-columns: 330px 330px 330px;
+}
+
+.pageOne{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-radius: 5px;
+    box-sizing: border-box;
+    height: 640px;
+}
+
+.rk{
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    align-items: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: rgb(233, 230, 230);
+    padding: 40px 20px;
+}
+
+.pageImgProduct{
+    width: 100%;
+    height: 260px;
+}
+
+.Nameproduct{
+    padding: 20px;
+    border: 1px solid #dfdcdc;
+    border-top: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.rating{
+    display: flex;
+    margin: 10px 0px;
+}
+
+.prize{
+    display: flex;
+}
+
+.currency{
+    font-size: 13px;
+}
+
+.rateHome{
+    font-size: 28px;
+    font-weight: 500;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.addto{
+    background-color: #f79b22;
+    width: fit-content;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.offpage{
+    color: #727171;
+    font-weight: 400;
+}
+
+.free{
+    font-weight: 400;
+    margin-top: 10px;
+}

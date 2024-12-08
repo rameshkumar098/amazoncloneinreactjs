@@ -1,0 +1,136 @@
+.cart{
+    background-color: whitesmoke;
+    padding: 20px 18px 18px;
+    display: flex;
+    gap: 10px;
+}
+
+.topLeftcart{
+    padding: 20px 15px 15px;
+    box-sizing: border-box;
+    width: 77%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.lefttitle{
+    font-size: 28px;
+}
+
+.deselect{
+    color: #007185;
+}
+
+.cartPrice{
+    text-align: end;
+}
+
+.cartDiv{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.cartBlock{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-top: 1px solid #e7e7e7;
+}
+
+.cartLeft{
+    display: flex;
+    width: 80%;
+}
+
+.imgBlock{
+    width: 20%;
+    flex-shrink: 0;
+}
+
+.Itemleft{
+    width: 100%;
+}
+
+.itemdetails{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    gap: 7px;
+}
+
+.cartName{
+    font-size: 18px;
+}
+
+.instock{
+    color: #007600;
+    font-size: 13px;
+}
+
+.freeSip{
+    color: #565959;
+    font-size: 12px;
+}
+
+.amazonimg{
+    width: 66px;
+}
+
+.fullfill{
+    width: 100%;
+}
+
+.remove{
+    padding: 5px;
+    font-size: 14px;
+    background-color: #f09f36;
+    width: fit-content;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.cartitemprize{
+    font-size: 18px;
+    font-weight: 600;
+    box-sizing: border-box;
+}
+
+.topRightcart{
+    padding: 20px 15px 15px;
+    box-sizing: border-box;
+    width: 23%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+}
+
+.sub{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.total{
+    font-weight: 700;
+}
+
+.gift{
+    display: flex;
+    margin: 10px 0;
+    gap: 5px;
+}
+
+.proceed{
+    font-size: 14px;
+    background-color: #f09b2c;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: 500;
+}

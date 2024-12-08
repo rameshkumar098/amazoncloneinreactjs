@@ -1,0 +1,57 @@
+[
+    {
+      "title": "Keep shopping for",
+      "items": [
+        {
+          "image": "laptop1.jpg",
+          "name": "(Refurbished) Lenovo Laptop",
+          "price": "₹15,499",
+          "oldPrice": "₹49,999"
+        },
+        {
+          "image": "laptop2.jpg",
+          "name": "(Refurbished) HP EliteBook",
+          "price": "₹17,849",
+          "oldPrice": "₹89,999"
+        },
+        {
+          "image": "laptop3.jpg",
+          "name": "MSI Modern 14",
+          "price": "₹42,021"
+        }
+      ]
+    },
+    {
+      "title": "Gift ideas inspired by your shopping history",
+      "items": [
+        {
+          "image": "headphones.jpg",
+          "name": "boAt Rockerz 450, 15 HRS Battery, 40mm Drivers",
+          "price": "₹1,490",
+          "oldPrice": "₹7,990"
+        }
+      ]
+    },
+    {
+      "title": "Under ₹899 | Combo packs | Amazon Brands & more",
+      "items": [
+        {
+          "image": "tshirts.jpg",
+          "name": "Combo Pack T-Shirts",
+          "price": "₹899"
+        }
+      ]
+    },
+    {
+      "title": "Pick up where you left off",
+      "items": [
+        {
+          "image": "case.jpg",
+          "name": "UniGear Extra Hard Shell Headphone Case",
+          "price": "₹499",
+          "oldPrice": "₹999"
+        }
+      ]
+    }
+  ]
+  
